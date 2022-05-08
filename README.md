@@ -1,5 +1,5 @@
 # Fake News Detection
-![image_cm](graph/confusion_matrix.png)
+![image_cm](graph/fake_news_title.jpg)
 
 With massive amount of information readily available on the internet nowadays, it gets harder to identify what sources we can trust and what not to. Especially when lots of them contains clickbaits and/or keywords that are simply used to gain monetary benefit or promote certain propaganda for certain parties.
 
